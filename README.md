@@ -34,13 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is not necessary for a website to function but it is a good practice because it makes it easier for a developer to understand how the code works and it also allows text-reader programs, designed for people with handicaps, to function; creating more accessibility for everyone. In a sense, semantic HTML is an unwritten rule that you should always follow.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+display: block; - blocks it from other lines and keeps it in it's own line.
+display: inline; - keeps it on the same line with other elements that don't have display: block; properties.
 
 3. What are the 4 areas of the box model?
 
+content
+padding
+border
+margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross axis (perpendicular to the main axis)
+
 5. Explain why git is valuable to a team of developers.
+
+Git is invaluable to a team of developers because its a version control system. Meaning that if someone amongst that team breaks something the whole team can revert to a previous version that isn't broken. It also allows for remote collaboration. Without git, the team would have to manually merge all their code together and constantly email each other files of their updated code. That or the whole team would have to work out of the same hard drive.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
